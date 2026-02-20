@@ -21,11 +21,18 @@
 
 # Estructura
   -Declarar 20 tipos de variables
+    
     -Int 
+    
     -Double
+    
     -Float
+    
     -Long
+    
     -short
+    
     -Byte
+    
     -boolean
     

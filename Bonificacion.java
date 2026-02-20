@@ -35,6 +35,21 @@ public class Bonificacion {
      g = e + f;
      k = a + l;
      d = a + b;
+         //HardCode
+      b = 15;
+     c = 25;
+     f = 3.15;
+     q = false;
+     d = 11000;
+     s = 2.1416;
+     h = 0.5;
+     i = 3.3f;
+     j = -7.4f;
+     l = 5000;
+     m = 2;
+     n = 1;
+     q = true;
+     r = false;
 
      System.out.println("a" +a);
      System.out.println("e" +e);
